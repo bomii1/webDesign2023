@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d126eba-8213-4c00-8b8c-11ea77f800e2" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/KakaoTalk_20231124_122833534.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/fall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/main.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spring.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/summer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/summer1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/winter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/space.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="5d126eba-8213-4c00-8b8c-11ea77f800e2" name="변경" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,11 +54,23 @@
       <workItem from="1702344445623" duration="262000" />
       <workItem from="1702344994532" duration="2725000" />
       <workItem from="1702395820457" duration="14967000" />
-      <workItem from="1702448838662" duration="3401000" />
+      <workItem from="1702448838662" duration="3819000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1702456662193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702456662193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
