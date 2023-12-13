@@ -117,6 +117,7 @@ img {
     border-radius: 10px;
 }
 
+/* 버튼의 디자인과 위치를 정의 */
 #menuToggle
 {
     display: block;
@@ -130,6 +131,7 @@ img {
     user-select: none;
 }
 
+/* 메뉴 항목과 디자인과 색상을 지정 */
 #menuToggle a
 {
     text-decoration: none;
@@ -138,12 +140,13 @@ img {
     transition: color 0.3s ease;
 }
 
+/* 마우스를 가져다 대었을 때 색이 바뀌도록 */
 #menuToggle a:hover
 {
     color: #cdcdcd;
 }
 
-
+/* 토글 버튼의 모양과 위치를 설정 */
 #menuToggle input
 {
     display: block;
@@ -161,6 +164,7 @@ img {
     -webkit-touch-callout: none;
 }
 
+/* 상단의 메뉴 아이콘을 나타냄 -> input:checked 상태가 토글 되어 메뉴가 나타나거나 사라짐*/
 #menuToggle span
 {
     display: block;
@@ -209,6 +213,7 @@ img {
     transform: rotate(-45deg) translate(0, -1px);
 }
 
+/* 실제 메뉴가 보여지는 영역을 지정, 토글 상태에 따라 나타나고 사라짐 */
 #menu
 {
     position: absolute;
@@ -222,6 +227,7 @@ img {
     list-style-type: none;
     -webkit-font-smoothing: antialiased;
 
+    /* 애니메이션 효과 */
     transform-origin: 0% 0%;
     transform: translate(-100%, 0);
 
