@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d126eba-8213-4c00-8b8c-11ea77f800e2" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/KakaoTalk_20231124_122833534.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/main.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/spring.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/summer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/summer1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/winter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YbQFidQYLQWGTG6TAFdweGJVTO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="5d126eba-8213-4c00-8b8c-11ea77f800e2" name="변경" comment="" />
+      <created>1700791697977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700791697977</updated>
+      <workItem from="1700791699364" duration="9721000" />
+      <workItem from="1702005000523" duration="1692000" />
+      <workItem from="1702344445623" duration="262000" />
+      <workItem from="1702344994532" duration="2725000" />
+      <workItem from="1702395820457" duration="14967000" />
+      <workItem from="1702448838662" duration="3401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
